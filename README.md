@@ -1,6 +1,5 @@
 # DS 4420 - Final Project 
 ## Predicting Steam Game Prices Using Machine Learning
-DS4420 Spr26
 Authors: Gianna Saw, Jason Zheng 
 
 ## Project Overview 
